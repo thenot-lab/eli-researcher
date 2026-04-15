@@ -1,0 +1,20 @@
+# Eli's Autonomous Research System
+#
+# This is a zero-dependency system using only Python standard library.
+# No external packages required.
+#
+# Standard library modules used:
+# - xml.etree.ElementTree: RSS feed parsing
+# - urllib.request: HTTP feed fetching
+# - logging: Structured logging
+# - threading: Background task scheduler
+# - dataclasses: Type-safe data structures
+# - pathlib: Cross-platform file path handling
+# - json: Configuration management
+# - datetime: Time/date utilities
+# - hashlib: Content hashing for IDs
+# - re: Regular expression pattern matching
+# - time: Sleep/timing utilities
+
+# This project intentionally has NO external dependencies.
+# Python 3.10+ required for enhanced type hints.

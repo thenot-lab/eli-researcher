@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+*.log
+.vscode/
+.idea/
+*.db
+research_output/
+digests/
+.research/
+.DS_Store
+SHIP_ELI_RESEARCHER.md
