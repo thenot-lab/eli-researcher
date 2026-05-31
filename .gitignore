@@ -12,3 +12,6 @@ digests/
 .research/
 .DS_Store
 SHIP_ELI_RESEARCHER.md
+
+# byte-identical duplicate of README.md (leftover)
+GITHUB_README.md
